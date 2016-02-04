@@ -1,0 +1,23 @@
+body {
+	background-color: #F0F0F0;
+	padding:0;
+	margin: 0;
+	text-align: center;
+}
+.infos {
+	color:grey;
+}
+.entete {
+	width: auto;
+	height: auto;
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+}
+.footer{
+	width: auto;
+	height: 250px;
+	text-align: center;
+	font-size: 48px;
+	background-color: white;
+}
